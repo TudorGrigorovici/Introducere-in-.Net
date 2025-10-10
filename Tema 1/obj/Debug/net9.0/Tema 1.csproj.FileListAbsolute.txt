@@ -1,0 +1,14 @@
+D:\.NET I\Tema 1\Tema 1\bin\Debug\net9.0\Tema 1.exe
+D:\.NET I\Tema 1\Tema 1\bin\Debug\net9.0\Tema 1.deps.json
+D:\.NET I\Tema 1\Tema 1\bin\Debug\net9.0\Tema 1.runtimeconfig.json
+D:\.NET I\Tema 1\Tema 1\bin\Debug\net9.0\Tema 1.dll
+D:\.NET I\Tema 1\Tema 1\bin\Debug\net9.0\Tema 1.pdb
+D:\.NET I\Tema 1\Tema 1\obj\Debug\net9.0\Tema 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET I\Tema 1\Tema 1\obj\Debug\net9.0\Tema 1.AssemblyInfoInputs.cache
+D:\.NET I\Tema 1\Tema 1\obj\Debug\net9.0\Tema 1.AssemblyInfo.cs
+D:\.NET I\Tema 1\Tema 1\obj\Debug\net9.0\Tema 1.csproj.CoreCompileInputs.cache
+D:\.NET I\Tema 1\Tema 1\obj\Debug\net9.0\Tema 1.dll
+D:\.NET I\Tema 1\Tema 1\obj\Debug\net9.0\refint\Tema 1.dll
+D:\.NET I\Tema 1\Tema 1\obj\Debug\net9.0\Tema 1.pdb
+D:\.NET I\Tema 1\Tema 1\obj\Debug\net9.0\Tema 1.genruntimeconfig.cache
+D:\.NET I\Tema 1\Tema 1\obj\Debug\net9.0\ref\Tema 1.dll
